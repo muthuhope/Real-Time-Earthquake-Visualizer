@@ -67,5 +67,12 @@ earthquake-visualizer/
 ├── package.json
 └── README.md
 
+
+**Future Enhancements**
+-> Add earthquake prediction probability analysis
+-> Integrate historical earthquake data visualization
+-> Implement notification alerts for severe quakes
+-> Add dark/light theme toggle
+
 **Developer Info**
   Muthukumaran M
